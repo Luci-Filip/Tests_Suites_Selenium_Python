@@ -1,0 +1,46 @@
+1661534210276	geckodriver	INFO	Listening on 127.0.0.1:62237
+1661534213154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileVeSUMi"
+1661534217952	Marionette	INFO	Marionette enabled
+1661534217983	Marionette	INFO	Listening on port 62247
+WebDriver BiDi listening on ws://localhost:62238
+Read port: 62247
+1661534218860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileVeSUMi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62238/devtools/browser/c25c19bb-560b-430c-b36e-77827fefd78e
+1661534260715	Marionette	INFO	Stopped listening on port 62247
+[Parent 18704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661534271940	geckodriver	INFO	Listening on 127.0.0.1:62278
+1661534274905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileo9W2mZ"
+1661534275776	Marionette	INFO	Marionette enabled
+1661534275781	Marionette	INFO	Listening on port 62288
+WebDriver BiDi listening on ws://localhost:62279
+Read port: 62288
+1661534276499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileo9W2mZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62279/devtools/browser/5b2dcb02-9c07-4144-be3d-03d57ddb07fc
+1661534295075	Marionette	INFO	Stopped listening on port 62288
+[Parent 27552, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661534306491	geckodriver	INFO	Listening on 127.0.0.1:62321
+1661534308816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTnCNGz"
+1661534309971	Marionette	INFO	Marionette enabled
+1661534309980	Marionette	INFO	Listening on port 62331
+WebDriver BiDi listening on ws://localhost:62322
+Read port: 62331
+1661534312571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTnCNGz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62322/devtools/browser/baaa57bd-6c79-437d-a482-3f454da0fae4
+1661534331521	Marionette	INFO	Stopped listening on port 62331
+1661534342433	geckodriver	INFO	Listening on 127.0.0.1:62361
+1661534345426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62362" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHDCjl1"
+1661534345907	Marionette	INFO	Marionette enabled
+1661534345915	Marionette	INFO	Listening on port 62371
+WebDriver BiDi listening on ws://localhost:62362
+Read port: 62371
+1661534346468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHDCjl1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62362/devtools/browser/e872f4a7-7c06-4a6a-8e4f-c53424a12be8
+1661534367449	Marionette	INFO	Stopped listening on port 62371
+[Parent 7840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
